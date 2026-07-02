@@ -23,6 +23,13 @@ Generate images from text prompts using a pre-trained generative AI model.
 ## Output
 Successfully generated AI images from descriptive text prompts using the Stable Diffusion v1.5 model.
 
+## 🖼️ Generated Images
+
+![Image 1](image1.png)
+![Image 2](image2.png)
+![Image 3](image3.png)
+![Image 4](image4.png)
+
 ## Skills Learned
 - Text-to-Image Generation
 - Prompt Engineering
